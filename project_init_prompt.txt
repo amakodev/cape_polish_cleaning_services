@@ -1,0 +1,20 @@
+I want to build a website called CapePolish for Cleaning Services for a cape town client with the goal of lead generation and order processing. 
+
+This is the service that was provided: 
+- cleaning 
+- Private cleaning
+- Commercial buildings
+- Car cleaning
+- Carpet cleaning
+- Gardening 
+- Waste removal
+
+I need help with building from scratch, starting from branding to deployment to start accepting customers.
+
+We want a full, responsive, and professional single-page landing page with pages for more information about services. We want it to be user-friendly with AI assistance across the website.
+
+Be creative and construct a high-converting design and content writing. Impress me with stunning modern and clean design and high performing animations and interactive components
+
+As an extra I want to add a lead generator and order form, as well as a faq assistant with cheap ai model (gpt 3.5) and admin panel accessible via a password. Clients who provide their email can use it to see communications and order tracking, therefore we also need a client panel.
+
+This is quite a project, let's keep things as minimalistic and clean as possible, let's get started on amazing work 
